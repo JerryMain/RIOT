@@ -1,0 +1,3 @@
+[submodule "applications"]
+	path = applications
+	url = https://github.com/JerryMain/applications.git
